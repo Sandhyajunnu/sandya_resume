@@ -1,0 +1,134 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+body{
+    background-color: #cdc7be;
+    width:fit-content;
+    }
+    .srj{
+        color: #17139c;
+    }
+    .san{
+        width: 200px;
+        height: 200px;
+    }
+        h1{
+        color:#04009a;
+    }
+    hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    }
+    #t1,.th1,.td1{
+        width: 800px;
+        border-collapse: collapse;
+        border:2px solid #480032;
+        text-align: center;
+    }
+    .edu{
+    color: #071a52;
+    }
+    .th1{
+        color: #480032;
+    }
+    .td1{
+        color: #005792;
+    }
+    .ts{
+        color:#930077;
+    }
+    .in{
+        color: #086972;
+    }
+    .hob{
+        color: #00bdaa;
+    }
+    .top{
+    background-color: rgb(202, 23, 193);
+    width: 100px;
+    height: 100px;
+    border: solid 10px;
+    padding: 20px;
+    }
+    .middle{
+    margin-left: 160px;
+    background-color: limegreen;
+    width: 100px;
+    height: 100px;
+    border: solid 20px;
+    padding: 20px;
+    }
+    .bottom{
+    margin-left: 340px;
+    background-color: royalblue;
+    width: 100px;
+    height: 100px;
+    border: solid 10px;
+    padding: 20px;
+    }
+    p{
+        text-align: center;
+    }
+    .fi{
+    background-color: mediumturquoise;
+    width: 100px;
+    height: 100px;
+    border: solid 10px;
+    padding: 5px;
+    }
+    .te{
+    background-color: orangered;
+    margin-left: 130px;
+    width: 100px;
+    height: 100px;
+    border: solid 10px;
+    padding: 10px;
+    }
+    .tw{
+    background-color: rebeccapurple;
+    margin-left: 270px;
+    width: 100px;
+    height: 100px;
+    border: solid 10px;
+    padding: 20px;
+    }
+    .th{
+    background-color:tomato;
+    margin-left: 430px;
+    width: 100px;
+    height: 100px;
+    border: solid 10px;
+    padding: 30px;
+    }
+    .fo{
+    background-color: violet;
+    margin-left: 610px;    
+    width: 100px;
+    height: 100px;
+    border: solid 10px;
+    padding: 40px;
+    }
+    .fiv{
+    background-color: turquoise;
+    margin-left: 810px;    
+    width: 100px;
+    height: 100px;
+    border: solid 10px;
+    padding: 50px;
+    }
+    .sa{
+        width: 100px;
+        height: 100px;
+    }
+    .ra{
+        width: 100px;
+        height: 100px;
+    }
+    .ju{
+        width: 100px;
+        height: 100px;
+    }
